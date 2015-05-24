@@ -1,7 +1,9 @@
+<p align="center"><img src="http://s3.amazonaws.com/ir_public/projects/redpotion/BluePotion_logo_500w.png" alt="logo" width="250px"></p>
+
 BluePotion - Template
 ===================
 
-This is the default starting template for RubyMotion apps that use BluePotion (https://github.com/infinitered/bluepotion).
+This is the default starting template for RubyMotion apps that use [BluePotion](https://github.com/infinitered/bluepotion).
 
 ## Install and use template
 
@@ -21,11 +23,13 @@ You should then load dependencies before running the project.
 
 You can use this template straight off github.
 
-  `$ motion create --template=git@github.com:infinitered/bluepotion-template.git <myappname>`
+  ```
+  $ motion create --template=git@github.com:infinitered/bluepotion-template.git <myappname>
+  ```
 
 Once you've got the template locally, you can instead do:
 
-  `$ motion create --template=bluepotion-template <myappname>`
-
-
+  ```
+  $ motion create --template=bluepotion-template <myappname>
+  ```
 Have fun!

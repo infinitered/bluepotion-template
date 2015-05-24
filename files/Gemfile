@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "rake"
-gem "bluepotion"
+gem "bluepotion", github: "infinitered/bluepotion" 
 
 # Debugging tools
 gem "newclear"
