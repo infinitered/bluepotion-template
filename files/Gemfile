@@ -1,0 +1,9 @@
+source "https://rubygems.org"
+
+gem "rake"
+gem "bluepotion"
+
+# Debugging tools
+gem "newclear"
+
+# Optional
