@@ -15,6 +15,7 @@ class HomeScreenStylesheet < ApplicationStylesheet
     standard_text_view(st)
     st.font = font.large
     st.color = color.black
+    st.text = "Hello"
   end
 
 end

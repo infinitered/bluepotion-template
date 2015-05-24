@@ -9,7 +9,7 @@ class HomeScreen < PMScreen
   title "Your title here"
   stylesheet HomeScreenStylesheet
 
-  # This is optional, it will default to a RelativeView
+  # This is optional, it will default to a RelativeLayout
   #def load_view
     #Potion::LinearLayout.new(self.activity)
   #end
