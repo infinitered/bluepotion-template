@@ -15,7 +15,7 @@ class HomeScreen < PMScreen
   #end
 
   def on_load
-    append_view(Potion::TextView, :hello_label)
+    append(Potion::TextView, :hello_label)
   end
 end
 
