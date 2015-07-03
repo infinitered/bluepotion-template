@@ -9,4 +9,9 @@ gem "motion-gradle"
 # Debugging tools
 gem "newclear"
 
-# Optional
+# JSON parser
+gem "moran"
+
+# asynchronous code blocks
+gem "motion-async"
+
