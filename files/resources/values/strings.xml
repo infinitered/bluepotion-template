@@ -1,0 +1,9 @@
+<?xml version ="1.0" encoding ="utf-8"?>
+<resources>
+  <string name="awesome">BluePotion</string>
+  <string name="login_button">Log In</string>
+  <string name="done_button">Done</string>
+  <string name="back">Back</string>
+  <string name="loading">Loading...</string>
+</resources>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fog">#E4E7E9</color>
+    <color name="mist">#E1E3E3</color>
+    <color name="storm">#A3A5A7</color>
+    <color name="ghost">#84878A</color>
+</resources>
