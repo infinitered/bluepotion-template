@@ -5,7 +5,7 @@ BluePotion - Template
 
 This is the default starting template for RubyMotion apps that use [BluePotion](https://github.com/infinitered/bluepotion).
 
-BluePotion - Template is maintained by ![Infinite Red](http://infinite.red), a web and mobile development company based in Portland, OR and San Francisco, CA.
+BluePotion - Template is maintained by [Infinite Red](http://infinite.red), a web and mobile development company based in Portland, OR and San Francisco, CA.
 
 ## Install and use template
 
