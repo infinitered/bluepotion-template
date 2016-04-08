@@ -15,3 +15,5 @@ gem "moran"
 # asynchronous code blocks
 gem "motion-async"
 
+# ActiveRecord-like ORM for SQLite
+gem "swiss_db"
