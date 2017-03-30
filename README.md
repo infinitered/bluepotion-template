@@ -12,7 +12,7 @@ BluePotion - Template is maintained by [Infinite Red](http://infinite.red), a we
 Install the BluePotion gem and use the `bluepotion` command to create a new project.
 
   ```
-  $ gem install bluepotion 
+  $ gem install bluepotion
   $ bluepotion create my_app
   ```
 
@@ -35,3 +35,7 @@ Once you've got the template locally, you can instead do:
   $ motion create --template=bluepotion-template <myappname>
   ```
 Have fun!
+
+## Premium Support
+
+[BluePotion](https://github.com/infinitered/bluepotion) and [BluePotion Template](https://github.com/infinitered/bluepotion-template), as open source projects, are free to use and always will be. [Infinite Red](https://infinite.red/) offers premium BluePotion and BluePotion Template support and general mobile app design/development services. Email us at [hello@infinite.red](mailto:hello@infinite.red) to get in touch with us for more details.
